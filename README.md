@@ -1,13 +1,13 @@
-## CONTROLE DE FLUXO - DESAFIO
+## JAVA FLOW CONTROL - CHALLENGE - (DIO - Bootcamp Santander Fullstack Java + Angular)
 
-O sistema deverá receber dois parâmetros via terminal que representarão dois números inteiros, com estes dois números você deverá obter a quantidade de interações (for) e realizar a impressão no console (System.out.print) dos números incrementados, exemplo:
+The system must receive two parameters via terminal that will represent two integers, with these two numbers you must obtain the number of interactions (for) and print the incremented numbers in the console (System.out.print), for example:
 
-- Se você passar os números 12 e 30, logo teremos uma interação (for) com 18 ocorrências para imprimir os números, exemplo: "Imprimindo o número 1", "Imprimindo o número 2" e assim por diante.
+- If you pass the numbers 12 and 30, we will soon have an interaction (for) with 18 occurrences to print the numbers, for example: "Printing the number 1", "Printing the number 2" and so on.
 
-- e o primeiro parâmetro for MAIOR que o segundo parâmetro, você deverá lançar a exceção customizada chamada de ParametrosInvalidosException com a segunda mensagem: "O segundo parâmetro deve ser maior que o primeiro"
+- if the first parameter is GREATER than the second parameter, you must throw the custom exception called ParametrosInvalidosException with the second message: "The second parameter must be greater than the first"
 
-Crie o projeto DesafioControleFluxo
+Create the project DesafioControleFluxo
 
-Dentro do projeto, crie a classe Contador.java para realizar toda a codificação do nosso programa.
+  Within the project, create the class Contador.java to carry out all the coding of our program.
 
-Dentro do projeto, crie a classe ParametrosInvalidosException que representará a exceção de negócio no sistema.
+Within the project, create the class ParametrosInvalidosException which will represent the business exception in the system.
